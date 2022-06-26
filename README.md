@@ -10,7 +10,7 @@
 
 
 ### Languages and Tools:
-_Python_ 
-_JavaScipt_ 
-_Solidity_
-_GNU/Linux_ 
+_Python_ /
+_JavaScipt_ / 
+_Solidity_ /
+_GNU/Linux_ /
