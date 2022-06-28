@@ -11,6 +11,6 @@
 
 ### Languages and Tools:
 _Python_ /
-_JavaScipt_ / 
+_JavaScript_ / 
 _Solidity_ /
 _GNU/Linux_ /
